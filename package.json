@@ -16,6 +16,6 @@
     "fastify-graceful-shutdown": "^2.0.0",
     "fastify-oas": "^2.7.1",
     "fastify-swagger": "^3.1.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
